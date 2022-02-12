@@ -1,10 +1,10 @@
 :octocat: Hi! I'm Mário, creator of SGC - System Global Compliance, Suite of Apps for Public and Private Management.
 
-:bell: I'm a self-taught developer, always recycling my skills and refactoring my scripts to get clean code.
+:pushpin: I'm a self-taught developer, always recycling my skills and refactoring my scripts to get clean code.
 
 if ( like === true ):
 
-:pushpin: Meet my work here :point_right: [https://sgc.adm.br/mariodelimadobr/](https://sgc.adm.br/mariodelimadobr/)
+Meet my work here :point_right: [https://sgc.adm.br/mariodelimadobr/](https://sgc.adm.br/mariodelimadobr/)
 
 end if ;
 

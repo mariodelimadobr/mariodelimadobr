@@ -19,8 +19,8 @@ end if ;
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a> 
-  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 
-  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Git" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a> 
+  <a href="https://github.com/docker" target="_blank"><img align="center" alt="Works Mario in Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 
+  <a href="https://github.com/mariodelimadobr" target="_blank"><img align="center" alt="Works Mario in Git" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a> 
 </div>
   
   ---

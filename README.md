@@ -1,4 +1,8 @@
-Oi eu sou a Mário de Lima, Pai da Luna Valentina & DevAutodidata + Full Stack + FullCycle
+Oi! Eu sou a Mário de Lima, Pai da Luna Valentina & Desenvolvedor Autodidata + Full Stack + FullCycle
+
+Hi! I'm Mário de Lima, Luna Valentina's Father & Self-taught Developer + Full Stack + FullCycle
+
+Ciao! Sono Mário de Lima, padre di Luna Valentina e Developer Autodidata + Full Stack + FullCycle
 
 ---
 

@@ -12,9 +12,9 @@ end if ;
 
 ### Meet my Skills
 <div style="display: inline_block;">
-  <a href="https://sgc.adm.br/mariodelimadobr/dev.css" target="_blank"><img align="center" alt="Works Mario in CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://github.com/mariodelimadobr/dev.css" target="_blank"><img align="center" alt="Works Mario in CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/mariodelimadobr/dev.html" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/mariodelimadobr/dev.javascript" target="_blank"><img align="center" alt="Works Mario in JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://sgc.adm.br/mariodelimadobr/demo-form-validation.php" target="_blank"><img align="center" alt="Works Mario in PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 

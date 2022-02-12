@@ -2,8 +2,6 @@
 
 :pushpin: I'm a self-taught developer, always recycling my skills and refactoring my scripts to get clean code.
 
-:rocket: I'm resuming the developer journey and available for new challenges.
-
 if ( like === true ):
 
 Meet my work here :point_right: [https://sgc.adm.br/mariodelimadobr/](https://sgc.adm.br/mariodelimadobr/)

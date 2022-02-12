@@ -13,7 +13,7 @@ end if ;
 ---
 
 ### Meet my Skills
-<div style="display: inline_block">
+<div style="display: inline_block;">
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
@@ -21,8 +21,8 @@ end if ;
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a> 
-  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 
-  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a> 
+  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 
+  <a href="https://sgc.adm.br/mariodelimadobr/" target="_blank"><img align="center" alt="Works Mario in Git" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a> 
 </div>
   
   ---

@@ -1,4 +1,6 @@
-Hi! I'm Mário de Lima, Luna Valentina's Father & Self-taught Developer + Full Stack + FullCycle
+Hi! I'm Mário, criador da SGC - System Global Compliance, Suite de Apps para Gestão Pública e Privada. 
+
+Here I present a summary of my knowledge.
 
 ---
 

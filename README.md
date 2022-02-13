@@ -1,4 +1,4 @@
-:octocat: I'm Father, self-taught and DevOps.
+:octocat: I'm Father & Web Developer, self-taught.
 
 <div style="display: inline_block;">
   <a href="https://github.com/mariodelimadobr/dev.css" target="_blank"><img align="center" alt="Works Mario in CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>

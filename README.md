@@ -2,7 +2,7 @@
 
 if ( like === true ):
 
-Meet my work here :point_right: [https://sgc.adm.br/mariodelimadobr/](https://sgc.adm.br/mariodelimadobr/)
+:point_right: [Meet my work here](https://sgc.adm.br/mariodelimadobr/)
 
 end if ;
 

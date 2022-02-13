@@ -9,7 +9,7 @@
   <a href="https://sgc.adm.br/mariodelimadobr/dev.react" target="_blank"><img align="center" alt="Works Mario in React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/dev.typescript" target="_blank"><img align="center" alt="Works Mario in TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
     
-  <a href="https://sgc.adm.br/mariodelimadobr/dev.php" target="_blank"><img align="center" alt="Works Mario in Go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a> 
+  <a href="https://sgc.adm.br/mariodelimadobr/dev.go" target="_blank"><img align="center" alt="Works Mario in Go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a> 
   <a href="https://sgc.adm.br/mariodelimadobr/dev.php" target="_blank"><img align="center" alt="Works Mario in PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a> 
   <a href="https://github.com/mariodelimadobr/mysql" target="_blank"><img align="center" alt="Works Mario in MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
   <a href="https://github.com/docker" target="_blank"><img align="center" alt="Works Mario in Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 

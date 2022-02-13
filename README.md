@@ -1,4 +1,4 @@
-:octocat: I'm Mario, DevOps, Full Stack, Full Cycle, self-taught.
+:octocat: I'm Mario, DevOps self-taught.
 
 if ( like === true ):
 

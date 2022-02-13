@@ -1,5 +1,7 @@
 :octocat: I'm Father & Web Developer, self-taught.\
-if ( like === true ): :point_right: [Meet my work](https://sgc.adm.br/mariodelimadobr/) endif;
+:point_right: [Meet my work](https://sgc.adm.br/mariodelimadobr/)
+
+## My Skills
 
 <div style="display: inline_block;">
     <a href="https://github.com/mariodelimadobr/dev.html" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>

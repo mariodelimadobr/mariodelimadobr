@@ -1,5 +1,5 @@
 :octocat: I'm Father & Web Developer, self-taught.\
-:point_right: [Meet my work with the technologies below:](https://sgc.adm.br/mariodelimadobr/)
+:point_right: [Meet my work](https://sgc.adm.br/mariodelimadobr/)
 
 <div style="display: inline_block;">
   <a href="https://github.com/mariodelimadobr/dev.html" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>

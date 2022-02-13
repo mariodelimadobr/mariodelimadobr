@@ -1,6 +1,4 @@
-:octocat: Hi! I'm Mário, creator of SGC - System Global Compliance, Suite of Apps for Public and Private Management.
-
-:pushpin: I'm a self-taught developer, always recycling my skills and refactoring my scripts to get clean code.
+:octocat: I'm Mario, DevOps, Full Stack, Full Cycle, self-taught.
 
 if ( like === true ):
 
@@ -10,7 +8,6 @@ end if ;
 
 ---
 
-### Meet my Skills
 <div style="display: inline_block;">
   <a href="https://github.com/mariodelimadobr/dev.css" target="_blank"><img align="center" alt="Works Mario in CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/mariodelimadobr/dev.html" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
@@ -23,10 +20,8 @@ end if ;
   <a href="https://github.com/docker" target="_blank"><img align="center" alt="Works Mario in Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 
   <a href="https://github.com/mariodelimadobr" target="_blank"><img align="center" alt="Works Mario in Git" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a> 
 </div>
-  
-  ---
 
-### Contacts and Social Médias
+---
 
 <div>
   <a href="mailto:mariodelimadobrasil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -1,13 +1,5 @@
 :octocat: I'm Father, self-taught and DevOps.
 
-if ( like === true ):
-
-:point_right: [Meet my work here](https://sgc.adm.br/mariodelimadobr/)
-
-end if ;
-
----
-
 <div style="display: inline_block;">
   <a href="https://github.com/mariodelimadobr/dev.css" target="_blank"><img align="center" alt="Works Mario in CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/mariodelimadobr/dev.html" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
@@ -23,7 +15,11 @@ end if ;
 
 ---
 
-<div>
+if ( like === true ):
+
+:point_right: [Meet my work here](https://sgc.adm.br/mariodelimadobr/)
+
+<div>  
   <a href="mailto:mariodelimadobrasil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mariodelimadobr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/mariodelimadobr/" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
@@ -31,6 +27,8 @@ end if ;
   <a href="https://www.youtube.com/channel/UCjL37uVB6HnxjpJp74EhoLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!--a href="https://www.twitch.tv/mariodelimadobr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a--> 
 </div>
+
+end if ;
 
 ---
 

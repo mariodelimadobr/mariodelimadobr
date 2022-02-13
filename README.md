@@ -1,4 +1,4 @@
-:octocat: I'm Father and DevOps self-taught.
+:octocat: I'm Father, self-taught and DevOps.
 
 if ( like === true ):
 

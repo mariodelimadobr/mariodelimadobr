@@ -19,9 +19,7 @@
 
 ---
 
-if ( like === true ):
-
-:point_right: [Meet my work here](https://sgc.adm.br/mariodelimadobr/)
+if ( like === true ): :point_right: [Meet my work](https://sgc.adm.br/mariodelimadobr/) endif ;
 
 <div>  
   <a href="mailto:mariodelimadobrasil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,8 +29,6 @@ if ( like === true ):
   <a href="https://www.youtube.com/channel/UCjL37uVB6HnxjpJp74EhoLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!--a href="https://www.twitch.tv/mariodelimadobr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a--> 
 </div>
-
-end if ;
 
 ---
 

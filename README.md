@@ -6,7 +6,7 @@
   <a href="https://github.com/mariodelimadobr/dev.css" target="_blank"><img align="center" alt="Works Mario in CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> 
   <a href="https://github.com/mariodelimadobr/bootstrap" target="_blank"><img align="center" alt="Works Mario in Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></a>
   <a href="https://github.com/mariodelimadobr/dev.javascript" target="_blank"><img align="center" alt="Works Mario in JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://sgc.adm.br/mariodelimadobr/dev.python" target="_blank"><img align="center" alt="Works Mario in Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> 
+  <a href="https://sgc.adm.br/mariodelimadobr/python" target="_blank"><img align="center" alt="Works Mario in Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> 
   <a href="https://github.com/mariodelimadobr/dev.react" target="_blank"><img align="center" alt="Works Mario in React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
   <a href="https://github.com/mariodelimadobr/dev.typescript" target="_blank"><img align="center" alt="Works Mario in TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
     
@@ -15,7 +15,7 @@
   <a href="https://github.com/mariodelimadobr/mysql" target="_blank"><img align="center" alt="Works Mario in MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
   <a href="https://github.com/docker" target="_blank"><img align="center" alt="Works Mario in Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 
   <a href="https://github.com/mariodelimadobr" target="_blank"><img align="center" alt="Works Mario in Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-  <a href="https://github.com/mariodelimadobr" target="_blank"><img align="center" alt="Works Mario in Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a> 
+  <a href="https://github.com/mariodelimadobr" target="_blank"><img align="center" alt="Works Mario in GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a> 
 </div>
 
 ---

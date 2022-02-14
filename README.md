@@ -14,7 +14,7 @@
   <a href="https://github.com/mariodelimadobr/dev.php" target="_blank"><img align="center" alt="Works Mario in PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a> 
   <a href="https://github.com/mariodelimadobr/mysql" target="_blank"><img align="center" alt="Works Mario in MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
   <a href="https://github.com/docker" target="_blank"><img align="center" alt="Works Mario in Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a> 
-  <a href="https://github.com/mariodelimadobr" target="_blank"><img align="center" alt="Works Mario in Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+  <a href="https://github.com/mariodelimadobr/git" target="_blank"><img align="center" alt="Works Mario in Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
   <a href="https://github.com/mariodelimadobr" target="_blank"><img align="center" alt="Works Mario in GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a> 
 </div>
 

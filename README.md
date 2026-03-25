@@ -1,6 +1,6 @@
 :octocat: I'm Father & Web Developer, self-taught.\
 :point_right: [Meet my work](https://crud-bmvc.com)
-<a href="[https://exemplo.com](https://crud-bmvc.com)" target="_blank">Meet my work</a>
+<a href="https://crud-bmvc.com" target="_blank">Meet my work</a>
 
 <div style="display: inline_block;">
   <a href="https://github.com/mariodelimadobr/dev.html" target="_blank"><img align="center" alt="Works Mario in HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
